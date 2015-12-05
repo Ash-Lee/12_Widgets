@@ -124,17 +124,23 @@ img {
 @keyframes pulse {
   0% {
     transform: scale(1); }
+
   50% {
     transform: scale(0.9); }
+
   100% {
     transform: scale(1); } }
+
 @-webkit-keyframes pulse {
   0% {
     -webkit-transform: scale(1); }
+
   50% {
     -webkit-transform: scale(0.95); }
+
   100% {
     -webkit-transform: scale(1); } }
+
 /* ----------------------------------------
   Variables
 ---------------------------------------- */
@@ -192,7 +198,7 @@ nav {
   border-bottom-right-radius: 5px;
   width: 40px;
   height: 30px;
-  background: #E0E0E0 url(../assets/arrow-down.png) no-repeat center;
+  background: #e0e0e0 url(../assets/arrow-down.png) no-repeat center;
   cursor: pointer; }
   @media (max-width: 620px) {
     .nav-button {
@@ -457,13 +463,13 @@ nav {
   background-image: url(../assets/image-select/snow-1.jpg); }
 
 .image-select-content-2 {
-  background-image: url(../assets/image-select/snow-2.jpeg); }
+  background-image: url(../assets/image-select/snow-2.jpg); }
 
 .image-select-content-3 {
   background-image: url(../assets/image-select/snow-3.jpg); }
 
 .image-select-content-4 {
-  background-image: url(../assets/image-select/snow-4.jpeg); }
+  background-image: url(../assets/image-select/snow-4.jpg); }
 
 .image-select-content-5 {
   background-image: url(../assets/image-select/snow-5.jpg); }
@@ -552,5 +558,3 @@ nav {
     font-size: 0.75em;
     color: #605B56;
     font-weight: bold; }
-
-/*# sourceMappingURL=style.css.map */

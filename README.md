@@ -11,7 +11,7 @@ Extended Brief: Develop a web page containing a range of JavaScript widgets.
 	<li>Fully standards-compliant semantic HTML markup with appropriate section headings.</li>
 	<li>Responsive CSS3 layout design with appropriate use of media queries.</li>
 	<li>CSS3 animations.</li>
-	<li>SASS.</li>
+	<li>Sass.</li>
 	<li>jQuery and jQuery UI animations and easing values.</li>
 	<li>Use of browser developer tools for debugging purposes.</li>
 </ul>
